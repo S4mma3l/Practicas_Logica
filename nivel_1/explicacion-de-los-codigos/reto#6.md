@@ -1,3 +1,8 @@
+
+---
+
+## 6. encontrar el mayor
+
 ```python
 def encontrar_el_mayor(num1, num2, num3):
     """

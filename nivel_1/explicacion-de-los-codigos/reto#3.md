@@ -1,3 +1,11 @@
+
+---
+
+## 3. adivina el numero
+
+```python
+
+
 import random
 
 def adivina_el_numero():

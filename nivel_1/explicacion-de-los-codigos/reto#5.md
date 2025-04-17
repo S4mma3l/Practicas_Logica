@@ -1,3 +1,10 @@
+
+---
+
+## 5. suma digitos
+
+```python
+
 def suma_de_digitos(numero):
     """
     Calcula la suma de los dígitos de un número entero positivo.

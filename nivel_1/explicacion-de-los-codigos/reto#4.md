@@ -1,3 +1,10 @@
+
+---
+
+## 4. tabla de multiplicar
+
+```python
+
 def tabla_de_multiplicar(numero):
     """
     Imprime la tabla de multiplicar de un número dado del 1 al 10.

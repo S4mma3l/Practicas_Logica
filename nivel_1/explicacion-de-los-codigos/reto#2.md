@@ -1,3 +1,10 @@
+
+---
+
+## 2. calculadora simple
+
+```python
+
 def calculadora():
     """
     Función que realiza operaciones aritméticas básicas según la entrada del usuario.
